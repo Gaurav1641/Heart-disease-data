@@ -18,3 +18,5 @@ Gained practical insights into handling and analyzing healthcare data, which is 
 Tools and technology:
 Python, Pandas, Seaborn, Scikit-learn, and more.
 
+
+
